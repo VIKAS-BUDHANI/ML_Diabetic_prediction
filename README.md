@@ -18,9 +18,9 @@ various variable contain
 * DiabetesPedigreeFunction
 * Age
 
-###Tech stack: Python and its library, HTML, CSS, Bootstrap,etc.
+### Tech stack: Python and its library, HTML, CSS, Bootstrap,etc.
 
-##Step for creating the Project
+## Step for creating the Project
 * Collected the data from Kaggle.
 * Performed data pre-processing, data standardization,and training the data.
 * The algorithm used -Logistic regression, K Neighbours classifier, Naive Bayes classifier, Decision Tree, 
