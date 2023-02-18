@@ -18,7 +18,7 @@ various variable contain
 * DiabetesPedigreeFunction
 * Age
 
-## Model with there acuurancey. I have chosen the Random Forest Model for my project.
+## Model with there accuracy. I have chosen the Random Forest Model for my project.
 * Accuracy score of Logistic Regression: 76.04
 * Accuracy score of KNN: 73.44
 * Accuracy score of Naive Bayes: 72.4
