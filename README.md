@@ -18,13 +18,16 @@ various variable contain
 * DiabetesPedigreeFunction
 * Age
 
-• Collected the data from Kaggle.
-• Performed data pre-processing, data standardization,and training the data.
-• The algorithm used -Logistic regression, K Neighbours classifier, Naive Bayes classifier, Decision Tree, 
-  support vector machine , and Random forest and evaluate the model.
-• With the best performing model, I have made a web page
-  and app in a local host.
+###Tech stack: Python and its library, HTML, CSS, Bootstrap,etc.
 
+##Step for creating the Project
+* Collected the data from Kaggle.
+* Performed data pre-processing, data standardization,and training the data.
+* The algorithm used -Logistic regression, K Neighbours classifier, Naive Bayes classifier, Decision Tree, 
+  support vector machine , and Random forest and evaluate the model.
+* With the best performing model, I have made a web page
+  and app in a local host.
+ 
 ## Model with there accuracy. I have chosen the Random Forest Model for my project.
 * Accuracy score of Logistic Regression: 76.04
 * Accuracy score of KNN: 73.44
