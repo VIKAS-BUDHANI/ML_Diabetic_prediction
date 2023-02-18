@@ -18,9 +18,13 @@ various variable contain
 * DiabetesPedigreeFunction
 * Age
 
-## Result 
-The algorithm used for this model is Logistic Regression and the accuracy of model is 76 %.
-
+## Model with there acuurancey. I have chosen the Random Forest Model for my project.
+Accuracy score of Logistic Regression: 76.04
+Accuracy score of KNN: 73.44
+Accuracy score of Naive Bayes: 72.4
+Accuracy score of SVM: 74.48
+Accuracy score of Decision Tree: 68.75
+Accuracy score of Random Forest: 73.96
 
 ## Steps to run the model
 * First Download the resposiory and open in you VScode or pycharm etc.
